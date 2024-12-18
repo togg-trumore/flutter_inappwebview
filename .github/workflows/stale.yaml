@@ -1,8 +1,8 @@
-name: Close Stale Issues
+# name: Close Stale Issues
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Run every day at midnight
+# on:
+#   schedule:
+#     - cron: '0 0 * * *' # Run every day at midnight
 
 # jobs:
 #   close-issues:
